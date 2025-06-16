@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ab.qml</file>
+        <file>qml/Bpp01.qml</file>
+        <file>qml/Screen01.qml</file>
+    </qresource>
+</RCC>
